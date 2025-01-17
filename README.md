@@ -1,5 +1,5 @@
 # Analysis-and-Design-of-Algorithms
-Mentioning the course assignments that i have done under Prof.Niladri Chatterjee.
+The course assignments that I have done under Prof.Niladri Chatterjee IIT DELHI.
 
 # Skip List Implementation
 
